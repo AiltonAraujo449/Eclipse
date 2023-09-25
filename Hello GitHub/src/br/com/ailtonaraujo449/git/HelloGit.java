@@ -5,7 +5,7 @@ package br.com.ailtonaraujo449.git;
 
 /**
  * @author Ailton Araujo
- * Exemplo de Integração do Eclipse
+ * Exemplo de Integração do Eclipse com o GitHub.
  */
 public class HelloGit {
 
