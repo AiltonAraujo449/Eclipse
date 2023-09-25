@@ -15,7 +15,7 @@ public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello GitHub novamente");
 		System.out.println("Ailton Araujo");
-		System.out.println("Foi dificil.");
+		System.out.println("Foi moleza.");
 	}
 
 }
